@@ -12,6 +12,12 @@
 - 📧 Yandex Email: artpsychocreator@yandex.ru
 - 📱 Telegram: @ArtPsychoCreator
 
+<div id="badges" align="left">
+  <a href="https://t.me/ArtPsychoCreator">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
 ## :muscle: My skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
