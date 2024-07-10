@@ -1,4 +1,5 @@
-##Привет!👋
+### Привет!👋
+
 :man_technologist: Меня зовут Денис, и я Frontend-разработчик.
 
 - :point_up: Стремлюсь создавать технологичные, продуманные и удобные веб приложения.
@@ -32,7 +33,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-<div id="stats" align="center">
- <img src="https://komarev.com/ghpvc/?username=ArtPsycho" alt="stats" />
+<div id="stats" align="left">
  <img src="https://www.codewars.com/users/ArtPsycho/badges/small" alt="codewars" />
 </div>
