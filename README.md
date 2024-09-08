@@ -1,6 +1,4 @@
-### Привет!👋
-
-:man_technologist: Меня зовут **Денис** и я **Frontend-разработчик**.
+![header github](https://github.com/user-attachments/assets/1a956380-dc57-4873-b4b3-7e51e341e363)
 
 ## Get in touch with me
 
