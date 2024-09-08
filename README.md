@@ -3,7 +3,7 @@
 
 ## Get in touch with me
 
-- Email: d.mikhayleno@overedge.ru
+- Email: d.mikhaylenko@overedge.ru
 - Telegram: @ArtPsychoCreator
 
 <div id="badges" align="left">
